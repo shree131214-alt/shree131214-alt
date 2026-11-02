@@ -6,7 +6,8 @@ I'm learning to build useful apps and tools, one project at a time. I enjoy expl
 
 ## Featured projects
 
-- **[Bestie Hub](https://github.com/shree131214-alt/bestie-hub)** — A small Python and Streamlit app designed to help long-distance friends stay connected.
+- **[Dungeon Dash](https://github.com/shree131214-alt/dungeon-dash)** — A beginner-friendly Python terminal game with round-based combat and unit tests.
+- **[Bestie Hub](https://github.com/shree131214-alt/bestie-hub)** — A Python and Streamlit app designed to help long-distance friends stay connected.
 - **[GameIsland](https://github.com/shree131214-alt/gameisland)** — A lightweight Windows media companion, with a Chrome extension for browser media controls.
 
 ## What I'm learning
