@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shree
 
-<!--
-**shree131214-alt/shree131214-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python learner · Gamer · Curious builder**
 
-Here are some ideas to get you started:
+I'm learning to build useful apps and tools, one project at a time. I enjoy exploring how software can make everyday computer use more fun and convenient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[Bestie Hub](https://github.com/shree131214-alt/bestie-hub)** — A small Python and Streamlit app designed to help long-distance friends stay connected.
+- **[GameIsland](https://github.com/shree131214-alt/gameisland)** — A lightweight Windows media companion, with a Chrome extension for browser media controls.
+
+## What I'm learning
+
+- Python fundamentals and Streamlit
+- JavaScript through hands-on projects
+- Writing clearer documentation and improving my coding fundamentals
+
+## Beyond the code
+
+When I'm not building something, I'm probably gaming or thinking up my next project idea.
+
+---
+
+Thanks for visiting!
